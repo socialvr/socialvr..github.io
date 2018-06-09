@@ -1,2 +1,2 @@
-# socialvr..github.io
+# socialvr.github.io
 Static site
