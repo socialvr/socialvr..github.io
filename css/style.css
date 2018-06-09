@@ -1,0 +1,8 @@
+ul.monitor,
+ul.monitor li {
+	display: inline;
+	
+}
+ul.monitor li {
+	margin-right: 1em;
+}
